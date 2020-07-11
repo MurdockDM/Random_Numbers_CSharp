@@ -1,0 +1,12 @@
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/bin/Debug/netcoreapp3.1/random_numbers.deps.json
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/bin/Debug/netcoreapp3.1/random_numbers.runtimeconfig.json
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/bin/Debug/netcoreapp3.1/random_numbers.runtimeconfig.dev.json
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/bin/Debug/netcoreapp3.1/random_numbers.dll
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/bin/Debug/netcoreapp3.1/random_numbers.pdb
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/obj/Debug/netcoreapp3.1/random_numbers.csprojAssemblyReference.cache
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/obj/Debug/netcoreapp3.1/random_numbers.AssemblyInfoInputs.cache
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/obj/Debug/netcoreapp3.1/random_numbers.AssemblyInfo.cs
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/obj/Debug/netcoreapp3.1/random_numbers.csproj.CoreCompileInputs.cache
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/obj/Debug/netcoreapp3.1/random_numbers.dll
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/obj/Debug/netcoreapp3.1/random_numbers.pdb
+/Users/dustinmurdock/workspace/CSharp/exercises/random_numbers/obj/Debug/netcoreapp3.1/random_numbers.genruntimeconfig.cache
